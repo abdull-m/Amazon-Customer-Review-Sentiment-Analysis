@@ -4,16 +4,16 @@ The **Amazon Customer Review Sentiment Analysis** project is dedicated to unders
 
 ## Table of Contents
 
-- [# Project Overview](#project-overview)
-- [# Objectives](#objectives)
-- [# Technologies Used](#technologies-used)
-- [# Sentiment Analysis](#sentiment-analysis)
-- [# Visualizations](#visualizations)
-- [# Insights](#insights)
-- [# Usage](#usage)
-- [# Dependencies](#dependencies)
-- [# Getting Started](#getting-started)
-- [# License](#license)
+- [ Project Overview](#project-overview)
+- [ Objectives](#objectives)
+- [ Technologies Used](#technologies-used)
+- [ Sentiment Analysis](#sentiment-analysis)
+- [ Visualizations](#visualizations)
+- [ Insights](#insights)
+- [ Usage](#usage)
+- [ Dependencies](#dependencies)
+- [ Getting Started](#getting-started)
+- [ License](#license)
 
 ## Project Overview
 
